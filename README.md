@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter, MERN Stack**
 
-- 💬 Ask me about **JavaScript, Vue, Java, Laravel, Dart**
+- 💬 Ask me about **JavaScript, Vue, Laravel, Dart**
 
 - 📫 How to reach me **anandbaraik2014@gmail.com**
 
