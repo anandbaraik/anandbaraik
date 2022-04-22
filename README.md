@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/baraik_anand" target="blank"><img src="https://img.shields.io/twitter/follow/baraik_anand?logo=twitter&style=for-the-badge" alt="baraik_anand" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Everything**
 
 - 💬 Ask me about **JavaScript, Vue, Laravel, Dart**
 
