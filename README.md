@@ -9,6 +9,10 @@
 
 - 📫 How to reach me **anandbaraik2014@gmail.com**
 
+#### :books: Recent Blog Posts
+<!-- BLOGPOSTS:START -->
+<!-- BLOGPOSTS:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/coderanand" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="coderanand" height="30" width="40" /></a>
