@@ -11,7 +11,10 @@
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
-<!-- BLOGPOSTS:END -->
+ - 🚀 [Callbacks in Javascript](https://anandbaraik.hashnode.dev/callbacks-in-javascript)
+ - 💯 [What is the difference between qualifiers and data type?](https://anandbaraik.hashnode.dev/what-is-the-difference-between-qualifiers-and-data-type)
+ - 🔥 [What is the difference between include and require in PHP?](https://anandbaraik.hashnode.dev/what-is-the-difference-between-include-and-require-in-php)
+ - 🚀 [What is the full form of iostream.h?](https://anandbaraik.hashnode.dev/what-is-the-full-form-of-iostreamh)<!-- BLOGPOSTS:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
