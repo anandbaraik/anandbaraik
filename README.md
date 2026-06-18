@@ -22,7 +22,7 @@
 <a href="https://codepen.io/coderanand" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="coderanand" height="30" width="40" /></a>
 <a href="https://dev.to/anandbaraik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="anandbaraik" height="30" width="40" /></a>
 <a href="https://twitter.com/baraik_anand" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="baraik_anand" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anand-baraik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="anand-baraik" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anandbaraik/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="anand-baraik" height="30" width="40" /></a>
 <a href="https://medium.com/@Anand__babu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@anand__babu" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/anandbaraik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="anandbaraik" height="30" width="40" /></a>
 </p>
